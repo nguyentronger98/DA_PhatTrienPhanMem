@@ -1,0 +1,4 @@
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\HeThong\bin\Debug\HeThong.dll
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\HeThong\bin\Debug\HeThong.pdb
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\HeThong\obj\Debug\HeThong.dll
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\HeThong\obj\Debug\HeThong.pdb
