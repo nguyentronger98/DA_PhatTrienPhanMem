@@ -36,11 +36,10 @@ namespace QL_NhanSu
         }
 
 
-        private bool m_ColorSelected = false;
+  
         private void colorPickerDropDown1_SelectedColorChanged(object sender, EventArgs e)
         {
-            m_ColorSelected = true; 
-            colorPickerDropDown1.CommandParameter = colorPickerDropDown1.SelectedColor;
+           
         }
 
        

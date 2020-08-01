@@ -16,5 +16,20 @@ namespace QL_NhanSu
         {
             InitializeComponent();
         }
+
+        private void tabControlPanel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmNhanVien_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

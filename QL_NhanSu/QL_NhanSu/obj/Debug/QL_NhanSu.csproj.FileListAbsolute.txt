@@ -9,3 +9,8 @@ C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\ob
 C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.frmMain.resources
 C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\bin\Debug\HeThong.dll
 C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\bin\Debug\HeThong.pdb
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.frmDanhSachNhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.frmNguoiDung.resources
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.frmNhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.frmPhongBan.resources
+C:\Users\nguye\OneDrive\Máy tính\DA\DA_PhatTrienPhanMem\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form1.resources
